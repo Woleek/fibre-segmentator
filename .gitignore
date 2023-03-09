@@ -1,0 +1,12 @@
+__pycache__*
+.ipynb_checkpoints*
+.vscode*
+data/cropped_data
+lightning_logs*
+demo.ipynb
+model.py
+test.ipynb
+test.py
+data/prep_data/*
+!data/prep_data/Sample_5/
+
